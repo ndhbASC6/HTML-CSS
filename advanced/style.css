@@ -1,0 +1,16 @@
+body{
+    color:red;
+    text-align: center;
+}
+p{
+    color: lightblue;
+}
+h1{
+    margin: 15px;
+    border: solid;
+    border-color: darkgreen;
+    padding: 20px;
+}
+h3{
+    color: blue;
+}
