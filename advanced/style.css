@@ -1,16 +1,16 @@
 body{
-    color:red;
-    text-align: center;
-}
-p{
-    color: lightblue;
+    color:lightpink;
+    background-color: rgb(57, 7, 104);
+
 }
 h1{
     margin: 15px;
-    border: solid;
+    border: solid 4px;
     border-color: darkgreen;
     padding: 20px;
 }
-h3{
-    color: blue;
+#name {
+    font-family: 'Fascinate', cursive;
+    font: bold 30px cursive;
+    color: lightblue;
 }
